@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: yellow;
+}
+
+.header {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.home {
+    background-color: pink;
+    font-weight: bold;
+    font-size: 1.2em;
+}
